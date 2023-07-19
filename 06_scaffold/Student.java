@@ -46,7 +46,7 @@ class Main {
 
     @param remainingStones - the number of stones remaining in the game
     
-    @returns the number of stones the player removes
+    @return the number of stones the player removes
   */
   public static int getPlayerMove(int remainingStones) {
     boolean validMove = false;
@@ -85,7 +85,7 @@ class Main {
 
     @param message - the message to be displayed before accepting input
 
-    @returns the integer entered by the user
+    @return the integer entered by the user
   */
   public static int prompt(String message) {
     Scanner sc = new Scanner(System.in);
@@ -99,7 +99,7 @@ class Main {
     @param lower - the inclusive lower bound to generate random numbers from
     @param upper - the exclusive upper bound to generate random numbers from
 
-    @returns the random number generated
+    @return the random number generated
   */
   public static int getRandomNumber(int lower, int upper) {
     return (int) Math.floor(lower + (upper - lower) * Math.random());
