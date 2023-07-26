@@ -6,7 +6,7 @@ School Attributes:
 * school size: average school size? ~20-30v students in club
 * school grade range: 9-12 (meant for anyone who's taken a CS class or just wants to learn about CS)
 * faculty count: ~2 full-time CS teachers
-* courses: AP CS A, AP CS P (required), Design Drafting and Production (required), Computer Graphics
+* courses: AP CS A, AP CS P, Design Drafting and Production, Computer Graphics
 * * *
 
 ## Activity|ClassRoutine|Club|Organization|Initiative|System: Computer Corner
