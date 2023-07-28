@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Starter {
+public class Solution {
   public static void main(String[] args) {
     // test your selection sort
     // print if the test passed or failed
